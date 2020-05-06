@@ -1,0 +1,3 @@
+### usage
+isJsonValid(ClassType, PlainObject)
+

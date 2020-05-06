@@ -1,0 +1,32 @@
+{
+  "name": "process-validation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/processValidation.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "crazywook <wook9898@hanmail.net> (https://crazywook.github.io)",
+  "license": "ISC",
+  "homepage": "https://github.com/crazywook/process-validation",
+  "bugs": {
+    "url": " https://github.com/crazywook/process-validation/issues",
+    "email": "wook9898@hanmail.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crazywook/process-validation.git"
+  },
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.12.2",
+    "typescript": "^3.8.3"
+  }
+}
